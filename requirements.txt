@@ -9,3 +9,9 @@ langchain_community
 python-dotenv
 pypdf
 google-cloud-aiplatform>=1.38
+langdetect
+argostranslate
+transformers
+indic-nlp-library
+torch
+deep-translator
