@@ -16,3 +16,8 @@ indic-nlp-library
 torch
 deep-translator
 pymupdf
+google-generativeai
+sentence-transformers
+matplotlib 
+seaborn
+plotly
